@@ -60,7 +60,7 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
+- Email: mannnatwalia@gmail.com   
 - Location: India, Himachal Pradesh
 - LinkedIn: [LinkedIn]()  
 - GitHub: [GitHub](https://github.com/mannat-0776)  
