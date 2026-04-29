@@ -62,7 +62,7 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 - Email: mannnatwalia@gmail.com   
 - Location: India, Himachal Pradesh
-- LinkedIn: [LinkedIn]()  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mannat-walia-917a99329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - GitHub: [GitHub](https://github.com/mannat-0776)  
 
 ---
