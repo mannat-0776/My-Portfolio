@@ -1,6 +1,6 @@
 ![Logo](cp.png)
 
-# Amine Portfolio Showcase 💻
+# Mannat Walia Portfolio Showcase 💻
 
 Welcome to **Mannat Walia's Portfolio Showcase**!  
 A modern **portfolio website** designed to showcase projects, skills, and personal work using **HTML, CSS, and JavaScript**.  
